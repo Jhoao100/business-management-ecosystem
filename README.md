@@ -10,7 +10,7 @@ Este proyecto es una solución integral que conecta una plataforma de ventas (E-
 
 **Interfaz de Usuario (Landing & E-commerce)**
 [Ver sitio en producción](https://serviciosgeneralesivam.com/)
-*Aquí es donde el cliente interactúa, ve el catálogo y arma sus paquetes de productos (bundles).*
+*Aquí es donde el cliente interactúa, ve el catálogo y arma sus paquetes de productos*
 
 ---
 
