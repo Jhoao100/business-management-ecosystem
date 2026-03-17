@@ -35,7 +35,7 @@ Este proyecto es una solución integral que conecta una plataforma de ventas (E-
 ### 📸 VISTAS TÉCNICAS
 
 **Panel**
-![Dashboard](image_f6099d.jpg)
+![Dashboard](dashboard.jpg)
 
 ---
 <div align="center">
